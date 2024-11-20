@@ -1,0 +1,64 @@
+.s1 {
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.s2 {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.s3 {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+.s4 {
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+}
+.hover {
+    color: blue;
+    background-color: yellow;
+}
+
+.active {
+    color: yellow;
+    background-color: blue;
+    font-style: italic;
+}
+
+.released {
+    color: green;
+    background-color: yellow;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+    border: 2px solid #ccc;
+}
+/* 按鈕樣式 */
+.button {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    color: blue;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.button:hover {
+    background-color: #45a049;
+}
